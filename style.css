@@ -1,0 +1,150 @@
+.top{
+    background-color: rgb(185, 44, 44);
+    height: 50px;
+}
+.cap{
+    color: white;
+    margin-top: 15px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.nav{
+    height: 50px;
+}
+.logo{
+    height: 115px;
+}
+.drp1{
+    height: 40px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.srh{
+    width: 250px;
+    height: 35px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.srh1{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+.srh3{
+     border-color:rgb(185, 44, 44) !important ;
+     padding: 4px 10px;
+     border-radius: 5px;
+     color: white;
+     background-color: rgb(185, 44, 44) !important ;
+     
+
+}
+.srh2{
+    margin-top: 35px;
+    margin-left: 60px;
+    font-size: 22px;
+}
+.crl{
+    height: 500px;
+    margin-top: 50px;
+    object-fit: cover;
+}
+.carousel-caption{
+left: 70%;
+}
+.caption{
+    background-color: black;
+    width: 60%;
+    padding: 20px 0px;
+    margin-left: 20%;
+}
+.imgg{
+    border-radius: 10px;
+}
+.exp{
+    height: 170px;
+    border-radius: 190px ;
+    object-fit: cover;
+}
+.crd{
+    height: 442px !important;
+
+}
+.dbt{
+    height: 60px;
+    width: 400px;
+    margin-top: 10px;
+    border-color: rgb(218, 18, 18);
+    border-radius: 10px;
+}
+.dbt1{
+    height: 60px;
+    width: 100px;
+    color: rgb(199, 31, 31);
+    border-color: rgb(218, 18, 18);
+    border-radius: 10px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: white;
+}
+.dv{
+    margin-left: 170px;
+}
+.btn{
+    height: 57px;
+    margin-bottom: 4px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.btnn{
+    background-color: rgb(185, 44, 44);
+    width: 120px;
+    margin-left: 85px;
+    border-radius: 10px;
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-color: transparent;
+}
+.ofr{
+    margin-left:80px ;
+}
+.img1{
+    height: 270px;
+}
+.card{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-color: rgb(221, 150, 150) !important;
+}
+.btn1{
+    background-color: rgb(204, 56, 56);
+    color: white;
+    border-radius: 10px;
+    border-color: transparent;
+    padding: 15px 20px;
+}
+.card1{
+    height: 440px;
+}
+.br{
+    border-radius: 10px;
+}
+.carousel-indicators [data-bs-target]{
+    background-color: rgb(77, 14, 3) !important;
+}
+.vid{
+    height: 450px;
+    border-radius: 10px;
+}
+.card4{
+    list-style: none;
+    height: 450px;
+}
+.btnn2{
+    width: 100px;
+    background-color: rgb(167, 29, 29) ;
+    border-radius: 5px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-color: transparent;
+    color: white;
+    margin-left: 40%;
+}
+.ft{
+    background-color: rgb(173, 5, 5) ;
+    color: white;
+}
